@@ -7,7 +7,6 @@ public class SecondClass {
         int Largest = array[0];
         for (int i = 0; i < array.length; i++) {
             System.out.println(array[i]);
-
         }
     }
 }
